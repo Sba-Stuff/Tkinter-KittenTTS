@@ -57,6 +57,8 @@ https://github.com/user-attachments/assets/d80120f2-c751-407e-a166-068dd1dd9e8d
 pip install https://github.com/KittenML/KittenTTS/releases/download/0.8/kittentts-0.8.0-py3-none-any.whl
 ```
 
+### GUI
+<img width="502" height="532" alt="image" src="https://github.com/user-attachments/assets/a49470b0-5e29-4588-b793-593be273ba5c" />
 
 
  ### Basic Usage 
